@@ -1,5 +1,6 @@
-# nfc-pcsc
-## Installation
+# Installation
+---
+## nfc-pcsc
 
 **Requirements:** **at least Node.js 8 or newer** (see [this FAQ](#which-nodejs-versions-are-supported) for more info)
 
