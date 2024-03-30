@@ -51,4 +51,5 @@
     or using Yarn:
     
     ```bash
-    yarn add nfc-pcsc    ```
+    yarn add nfc-pcsc
+    ```
