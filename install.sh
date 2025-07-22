@@ -1,4 +1,3 @@
-cd $HOME
 # Install prereqs
 sudo apt-get update
 sudo apt-get install -y curl gcc g++ make git vim
