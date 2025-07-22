@@ -1,6 +1,5 @@
-# Installation
----
-## nfc-pcsc
+# nfc-pcsc
+## Installation
 
 **Requirements:** **at least Node.js 8 or newer** (see [this FAQ](#which-nodejs-versions-are-supported) for more info)
 
@@ -51,5 +50,4 @@
     or using Yarn:
     
     ```bash
-    yarn add nfc-pcsc
-    ```
+    yarn add nfc-pcsc    ```
