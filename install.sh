@@ -12,7 +12,7 @@ rm nodesource_setup.sh
 git clone https://github.com/wfzrs/intercard-encoder && mv intercard-encoder/ intercard/
 echo "Prereqs have finished installing"
 echo "Now installing PCSC drivers"
-sudo apt-get update && apt-get install libpcsclite1 libpcsclite-dev pcscd -y
+sudo apt update && sudo apt install libpcsclite1 libpcsclite-dev pcscd pcsc-tools -y
 echo "Installing NodeJS nfc module"
 npm install nfc-pcsc --save
 echo "Building stupid NPM package"
