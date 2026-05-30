@@ -18,5 +18,5 @@ npm install nfc-pcsc --save
 echo "Building stupid NPM package"
 cd ${HOME}/intercard && npm install
 echo "----------------------------------------------"
-echo " DONE! Run program by typing `npm run wahooz`
+echo " DONE! Run program by typing `npm run wahooz`"
 echo "----------------------------------------------"
